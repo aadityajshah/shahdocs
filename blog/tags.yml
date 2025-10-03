@@ -1,19 +1,24 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+gadgets:
+  label: gadgets
+  permalink: /gadgets
+  description: Fun gadgets
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
+technology:
+  label: Tech
+  permalink: /tech
+  description: Cool new technology
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
+reviews:
+  label: Reviews
+  permalink: /reviews
+  description: Reviews of products, food, restaurants. Anything.
 
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+howtos:
+  label: How To's
+  permalink: /howtos
+  description: How To's, guides, tips and tricks
+
+rambling:
+  label: Rambling
+  permalink: /rambling
+  description: Rambling on anything and everything
