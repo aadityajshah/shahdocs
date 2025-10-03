@@ -1,14 +1,12 @@
-yangshun:
-  name: Yangshun Tay
-  title: Ex-Meta Staff Engineer, Co-founder GreatFrontEnd
-  url: https://linkedin.com/in/yangshun
-  image_url: https://github.com/yangshun.png
+aj:
+  name: AJ Shah
+  title: Webmaster, Main Author, Geek
+  url: https://linkedin.com/in/aadityajshah
+  image_url: https://aadityashah.com/favicon.png
   page: true
   socials:
-    x: yangshunz
-    linkedin: yangshun
-    github: yangshun
-    newsletter: https://www.greatfrontend.com
+    linkedin: aadityajshah
+    github: aadityajshah
 
 slorber:
   name: Sébastien Lorber
