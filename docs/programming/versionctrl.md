@@ -34,4 +34,4 @@ Since we live in the new age of AI, I decided to ask Gemini, through Google Sear
 > Git: Generally faster, particularly for local operations, due to its distributed nature and optimized handling of repository content.
 > In essence, SVN offers a more controlled, centralized approach suitable for projects where a single point of truth and strict access control are paramount. Git, on the other hand, provides greater flexibility, speed, and offline capabilities, making it highly popular for collaborative software development and projects requiring agile workflows.
 
-See, what I said! 
+See! That's what I said! 
