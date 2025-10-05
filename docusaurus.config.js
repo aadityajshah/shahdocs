@@ -84,7 +84,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/aadityajshah',
+            href: 'https://github.com/aadityajshah/shahdocs',
             label: 'GitHub',
             position: 'right',
           },
