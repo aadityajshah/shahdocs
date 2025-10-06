@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'How-To\'s',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/howto.svg').default,
     description: (
       <>
         I'll post how-to's of things I've actually done, and documented. 
@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'Reviews',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/review.svg').default,
     description: (
       <>
         I'll have some indepth reviews of products, services, food, restaurants, 
@@ -24,7 +24,7 @@ const FeatureList = [
   },
   {
     title: 'Thoughts/Ideas/Ramblings',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/ideas.svg').default,
     description: (
       <>
         I'll share my ideas, thoughts, inner ramblings with you. Maybe we have
