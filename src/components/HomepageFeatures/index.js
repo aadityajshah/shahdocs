@@ -1,9 +1,13 @@
 import clsx from 'clsx';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
+import { useColorMode } from '@docusaurus/theme-common'
+
+
 
 const FeatureList = [
   {
+    scale: .5,
     title: 'How-To\'s',
     Svg: require('@site/static/img/howto.svg').default,
     description: (
@@ -34,11 +38,11 @@ const FeatureList = [
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({scale, Svg, title, description}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        <Svg className={styles.featureSvg} width="500px" height="500px" role="img" preserveAspectRatio="xMinYMin" viewBox="0 0 1000 1000"/>
       </div>
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>
