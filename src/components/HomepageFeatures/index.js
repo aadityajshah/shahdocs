@@ -3,9 +3,9 @@ import Heading from '@theme/Heading';
 import styles from './styles.module.css';
 
 const FeatureList = [
-  {/* 
+  {
     title: 'How-To\'s',
-    Svg: require('@site/static/img/howto.png').default,
+    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
         I'll post how-to's of things I've actually done, and documented. 
@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'Reviews',
-    Svg: require('@site/static/img/review.png').default,
+    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
         I'll have some indepth reviews of products, services, food, restaurants, 
@@ -23,14 +23,14 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Ideas',
-    Svg: require('@site/static/img/ideas.png').default,
+    title: 'Thoughts/Ideas/Ramblings',
+    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
         I'll share my ideas, thoughts, inner ramblings with you. Maybe we have
         some like minded ideas? Maybe I'll open your eyes to something you haven't considered. 
       </>
-    ), */
+    ),
   },
 ];
 
