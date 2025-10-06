@@ -3,7 +3,7 @@ import Heading from '@theme/Heading';
 import styles from './styles.module.css';
 
 const FeatureList = [
-  {
+  {/* 
     title: 'How-To\'s',
     Svg: require('@site/static/img/howto.png').default,
     description: (
@@ -30,7 +30,7 @@ const FeatureList = [
         I'll share my ideas, thoughts, inner ramblings with you. Maybe we have
         some like minded ideas? Maybe I'll open your eyes to something you haven't considered. 
       </>
-    ),
+    ), */
   },
 ];
 
